@@ -13,6 +13,14 @@ The purpose of this exercise is to create a simple automated workflow that simul
 - Initiator - The person from Redhill Ltd initiating the onboarding of a new member
 - New member - Person joining a project at Redhill Ltd
 
+## Prelude
+
+These resources may be helpful.
+
+- Form handling and database tables - https://www.youtube.com/watch?v=GSXLPLzu1RI
+- Sending email from Buildship - https://www.youtube.com/watch?v=soczzk2D5UE
+- Free SMTP mail server - https://resend.com/
+
 ## M1 - Form Design
 
 Use a SaaS form building tool to design an input form. For this exercise use Tally.io for the form. Pay special attention to the choice of form fields and whether or not they are mandatory.
@@ -33,7 +41,7 @@ Using Buildship.io, create an automation that will perform the following steps
 
 ## R4 - Persisting Data
 
-Using either Baserow.io or Supabase, design a database table to save all of the key data.
+Using either the built-in Buildship database or Supabase.io, design a database table to save all of the key data.
 
 Then alter your automation flow to save the sumbitted form data to this new database table.
 
@@ -46,6 +54,9 @@ Your solution will gain extra points if you include some or all of these items.
 2. Add password protection to the form
 3. Prevent sending multiple offers to the same email address
 
+## Deadline
+
+Your solution is due within 48 hours. Please follow submission instructions from the email.
 
 
 
